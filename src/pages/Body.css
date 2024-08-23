@@ -1,0 +1,63 @@
+.customContainer{
+    margin-top: 200px;
+}
+
+.bodyH1{
+    display: flex;
+    justify-content: center;
+    
+    font-size: xxx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    background-color: antiquewhite;
+    border-radius: 100px;
+}
+
+.headerImg{
+    width: 50%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.headerContainer{
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    
+    justify-self: center;
+}
+
+.headerText{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.headerImg1{
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+    
+}
+
+.headerText1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5%;
+    margin-left: 10%;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
